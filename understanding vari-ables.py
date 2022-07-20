@@ -1,0 +1,3 @@
+# understanding variables...
+var1 = ('IDLABANA DOEET JALALPURI \n')
+print(int(99 + 1) * (var1))
